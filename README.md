@@ -1,0 +1,2 @@
+# Platzy
+Mi primer repositorio
